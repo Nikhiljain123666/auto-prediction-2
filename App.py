@@ -188,3 +188,5 @@ else:
         st.write(df.head(5))
 
         build_model(df)
+if __name__ =='__main__':
+    main()
